@@ -1,0 +1,6 @@
+E:\PF\PFlab1\task6\bin\Debug\task6.exe.config
+E:\PF\PFlab1\task6\bin\Debug\task6.exe
+E:\PF\PFlab1\task6\bin\Debug\task6.pdb
+E:\PF\PFlab1\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+E:\PF\PFlab1\task6\obj\Debug\task6.exe
+E:\PF\PFlab1\task6\obj\Debug\task6.pdb

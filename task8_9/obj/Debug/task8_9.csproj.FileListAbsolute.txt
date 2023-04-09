@@ -1,0 +1,7 @@
+E:\PF\PFlab1\task8_9\bin\Debug\task8_9.exe.config
+E:\PF\PFlab1\task8_9\bin\Debug\task8_9.exe
+E:\PF\PFlab1\task8_9\bin\Debug\task8_9.pdb
+E:\PF\PFlab1\task8_9\obj\Debug\task8_9.csproj.AssemblyReference.cache
+E:\PF\PFlab1\task8_9\obj\Debug\task8_9.csproj.CoreCompileInputs.cache
+E:\PF\PFlab1\task8_9\obj\Debug\task8_9.exe
+E:\PF\PFlab1\task8_9\obj\Debug\task8_9.pdb
